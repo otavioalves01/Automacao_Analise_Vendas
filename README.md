@@ -7,7 +7,7 @@ O objetivo foi **praticar manipulação de dados com Pandas**, **introduzir auto
 
 ---
 
-## 🛠Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3
 - Pandas
 - Openpyxl
