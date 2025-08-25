@@ -1,0 +1,21 @@
+id_cliente,nome,cidade,idade,data_cadastro
+1,Cliente 1,Belo Horizonte,30,2025-04-28 13:45:55.482032
+2,Cliente 2,Curitiba,23,2024-09-30 13:45:55.482060
+3,Cliente 3,Belo Horizonte,50,2025-01-16 13:45:55.482072
+4,Cliente 4,Curitiba,21,2024-11-24 13:45:55.482080
+5,Cliente 5,Belo Horizonte,29,2025-05-04 13:45:55.482088
+6,Cliente 6,Curitiba,45,2024-10-17 13:45:55.482097
+7,Cliente 7,Curitiba,41,2024-09-28 13:45:55.482105
+8,Cliente 8,Rio de Janeiro,57,2025-06-26 13:45:55.482113
+9,Cliente 9,Rio de Janeiro,35,2024-11-17 13:45:55.482155
+10,Cliente 10,Belo Horizonte,43,2025-06-03 13:45:55.482170
+11,Cliente 11,Rio de Janeiro,28,2024-12-23 13:45:55.482179
+12,Cliente 12,Rio de Janeiro,37,2024-11-17 13:45:55.482188
+13,Cliente 13,São Paulo,42,2025-04-28 13:45:55.482220
+14,Cliente 14,Curitiba,25,2024-09-03 13:45:55.482236
+15,Cliente 15,Belo Horizonte,30,2024-10-31 13:45:55.482245
+16,Cliente 16,Rio de Janeiro,30,2025-06-21 13:45:55.482253
+17,Cliente 17,São Paulo,57,2024-10-23 13:45:55.482260
+18,Cliente 18,São Paulo,57,2024-12-16 13:45:55.482268
+19,Cliente 19,Rio de Janeiro,27,2025-03-13 13:45:55.482275
+20,Cliente 20,Rio de Janeiro,29,2024-10-06 13:45:55.482282

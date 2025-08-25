@@ -1,0 +1,16 @@
+cidade,categoria,sum,mean
+Belo Horizonte,Acessórios,20,2.857142857142857
+Belo Horizonte,Hardware,12,3.0
+Belo Horizonte,Jogos,16,2.6666666666666665
+Belo Horizonte,Software,15,3.0
+Curitiba,Acessórios,10,1.6666666666666667
+Curitiba,Hardware,13,2.6
+Curitiba,Jogos,26,2.888888888888889
+Curitiba,Software,26,2.888888888888889
+Rio de Janeiro,Acessórios,13,1.8571428571428572
+Rio de Janeiro,Hardware,18,3.0
+Rio de Janeiro,Jogos,29,2.4166666666666665
+Rio de Janeiro,Software,18,3.0
+São Paulo,Acessórios,9,2.25
+São Paulo,Hardware,19,2.375
+São Paulo,Jogos,16,2.6666666666666665
